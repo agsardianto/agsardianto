@@ -51,7 +51,7 @@
             </div>
           </div>
           <div class="nama nama1">
-            <p>Fakhrurrozy❤</p>
+            <p>Agus Ardianto ❤</p>
           </div>
           <div class="isi">
             <p>Hai, Kenalan Dong. .</p>
